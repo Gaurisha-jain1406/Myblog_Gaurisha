@@ -1,21 +1,25 @@
-body{
-  text-align: center;
-  background-color:#F50057;
-  background-repeat:no-repeat;
+body {
+    text-align: center;
+    background-color: #F50057;
+    background-repeat: no-repeat;
 }
-img{
-  border-radius:50%;
-  width:300px;
+
+img {
+    border-radius: 50%;
+    width: 300px;
 }
-h1{
-  text-shadow:2px 2px #6200EA;
+
+h1 {
+    text-shadow: 2px 2px #6200EA;
 }
-#bio{
-  padding:20px;
-  font-size:18px;
-  text-align:center;
+
+#bio {
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
 }
-.menu{
+
+.menu {
     list-style: none;
     font-family: cursive;
     float: right;
@@ -24,6 +28,11 @@ h1{
     cursor: pointer;
     color: black;
 }
-#myname{
+
+#myname {
     font-family: 'Lobster', cursive;
+}
+
+html {
+    scroll-behavior: smooth;
 }
