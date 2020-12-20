@@ -28,6 +28,9 @@ h1 {
     cursor: pointer;
     color: black;
 }
+li {
+  display: inline;
+}
 
 #myname {
     font-family: 'Lobster', cursive;
